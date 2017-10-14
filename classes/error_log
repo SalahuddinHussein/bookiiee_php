@@ -1,0 +1,3 @@
+[30-Sep-2016 04:28:51 UTC] PHP Fatal error:  Call to a member function getSubCat() on a non-object in /home/bookiiee/public_html/classes/Categories.php on line 48
+[30-Sep-2016 04:28:53 UTC] PHP Fatal error:  Call to a member function getSubCat() on a non-object in /home/bookiiee/public_html/classes/Categories.php on line 48
+[30-Sep-2016 04:28:56 UTC] PHP Fatal error:  Call to a member function getSubCat() on a non-object in /home/bookiiee/public_html/classes/Categories.php on line 48
